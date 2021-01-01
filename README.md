@@ -1,2 +1,4 @@
 # GetEm
-Dad &amp; Grace collaboration
+Dad &amp; Grace collaboration    
+
+![Gif](GetEm.gif)    
